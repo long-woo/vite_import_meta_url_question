@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "main": "./root-config.js",
+    "vite-app": "./vite-app/index.js"
+  }
+}
